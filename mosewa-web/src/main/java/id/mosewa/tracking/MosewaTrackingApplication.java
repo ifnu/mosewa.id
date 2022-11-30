@@ -12,4 +12,6 @@ public class MosewaTrackingApplication {
         SpringApplication.run(MosewaTrackingApplication.class, args);
     }
     
+    //add something usless here
+    
 }
